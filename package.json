@@ -1,7 +1,4 @@
 {
-  "engines": {
-   "node": ">=14.0.0"
-  },
   "dependencies": {
     "@rails/webpacker": "^4.0.7",
     "animate.css": "^3.7.1",
@@ -29,5 +26,8 @@
   },
   "devDependencies": {
     "webpack-dev-server": "^3.5.1"
+  },
+  "engines": {
+    "node": "14"
   }
 }
